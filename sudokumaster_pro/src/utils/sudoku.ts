@@ -1,7 +1,7 @@
 /**
  * Utility functions for the Sudoku game
  */
-import { CellValue, Difficulty, GameGrid, SudokuGrid } from "@/types/sudoku";
+import { Difficulty, GameGrid, SudokuGrid } from "@/types/sudoku";
 
 // Creates an empty 9x9 Sudoku grid
 export function createEmptyGrid(): SudokuGrid {
