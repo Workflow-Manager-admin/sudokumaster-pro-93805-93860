@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run lint && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/sudokumaster-pro-93805-93860/sudokumaster_pro"
+}
