@@ -1,6 +1,6 @@
 "use client";
 
-import { Cell, GameGrid } from "@/types/sudoku";
+import { GameGrid } from "@/types/sudoku";
 import React from "react";
 import SudokuCell from "./SudokuCell";
 
